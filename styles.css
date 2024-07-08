@@ -1,0 +1,22 @@
+.cabecalho-roupas {
+    background-color: #bb86fc;
+    
+}
+.tabela-roupas{
+    background-color: #424250;
+    
+}
+.cabecalho-moveis{
+    background-color: #00c4b4;
+    
+}
+.tabela-moveis{
+    background-color: #424250;
+
+    
+}
+table{
+    color: aliceblue;
+    font: 12px;
+    padding: 10px;
+}
